@@ -145,6 +145,8 @@ Then just run the script in the terminal and that's it!
 
 Other ways to solve this: You can also use a Progressive Caesar Cipher online decryption tool, such as https://www.dcode.fr/progressive-caesar-cipher, but that would kill the fun of the challenge!
 
+****
+
 *P.S.: Don't forget to format your final answer as THM{flagstring} before submitting it.*
 
 *P.S.S: I know that this isn't really a challenge where a write-up is needed, due to its simplicity. I just wrote one because I wanted to hone my writing skills ;d*
